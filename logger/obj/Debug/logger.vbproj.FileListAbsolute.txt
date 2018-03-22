@@ -1,0 +1,10 @@
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\bin\Debug\logger.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\obj\Debug\logger.Key.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\obj\Debug\logger.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\obj\Debug\logger.vbproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\bin\Debug\logger.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\bin\Debug\logger.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\bin\Debug\logger.xml
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\obj\Debug\logger.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\obj\Debug\logger.xml
+C:\Users\1\Documents\Visual Studio 2013\Projects\logger\logger\obj\Debug\logger.pdb
